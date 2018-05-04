@@ -1,0 +1,14 @@
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.exe.config
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.pdb
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.csprojResolveAssemblyReference.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.csproj.CoreCompileInputs.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.pdb
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.exe.config
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\bin\Debug\Lecture3HomeWorkTask5.pdb
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.csprojResolveAssemblyReference.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.csproj.CoreCompileInputs.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\Lecture3HomeWork\Lecture3HomeWork\Lecture3HomeWorkTask5\obj\Debug\Lecture3HomeWorkTask5.pdb
